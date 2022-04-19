@@ -1,3 +1,6 @@
-#pragma once
+#ifndef EXERCISE_H
+#include <iostream>
+#include <string>
 
-void mod_cross_sum(int I, int J);
+#endif
+void mod_cross_sum(int, int);

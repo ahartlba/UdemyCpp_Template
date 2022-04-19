@@ -8,6 +8,7 @@ int main()
     const unsigned int array_length = 100;
     double sum = 0.0;
 
+
     double *p_array1 = nullptr;
     p_array1 = new double[array_length];
 
